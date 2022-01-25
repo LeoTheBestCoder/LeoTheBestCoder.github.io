@@ -2,9 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://LeoTheBestCoder.github.io/categories/</loc>
+    <loc>https://LeoTheBestCoder.github.io/posts/intro/</loc>
+    <lastmod>2022-01-25T15:35:34+08:00</lastmod>
   </url><url>
     <loc>https://LeoTheBestCoder.github.io/</loc>
+    <lastmod>2022-01-25T15:35:34+08:00</lastmod>
+  </url><url>
+    <loc>https://LeoTheBestCoder.github.io/posts/</loc>
+    <lastmod>2022-01-25T15:35:34+08:00</lastmod>
+  </url><url>
+    <loc>https://LeoTheBestCoder.github.io/posts/meichu/</loc>
+    <lastmod>2022-01-25T15:25:09+08:00</lastmod>
+  </url><url>
+    <loc>https://LeoTheBestCoder.github.io/categories/</loc>
   </url><url>
     <loc>https://LeoTheBestCoder.github.io/series/</loc>
   </url><url>
