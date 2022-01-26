@@ -5,7 +5,25 @@
     <link>https://LeoTheBestCoder.github.io/</link>
     <description>Recent content on Leo&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 25 Jan 2022 22:07:20 +0800</lastBuildDate><atom:link href="https://LeoTheBestCoder.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Jan 2022 14:27:53 +0800</lastBuildDate><atom:link href="https://LeoTheBestCoder.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ICLAB</title>
+      <link>https://LeoTheBestCoder.github.io/posts/iclab/</link>
+      <pubDate>Wed, 26 Jan 2022 14:27:53 +0800</pubDate>
+      
+      <guid>https://LeoTheBestCoder.github.io/posts/iclab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intern at ITRI</title>
+      <link>https://LeoTheBestCoder.github.io/posts/intern/</link>
+      <pubDate>Wed, 26 Jan 2022 14:26:24 +0800</pubDate>
+      
+      <guid>https://LeoTheBestCoder.github.io/posts/intern/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Undergraduate Research</title>
       <link>https://LeoTheBestCoder.github.io/posts/research/</link>
@@ -34,7 +52,10 @@ At July 2018, I finished my ultimate mission in high school — Advanced Subject
       <pubDate>Tue, 25 Jan 2022 15:25:09 +0800</pubDate>
       
       <guid>https://LeoTheBestCoder.github.io/posts/meichu/</guid>
-      <description>hey dude</description>
+      <description>Date 2020/10/24 (Sat.) - 2020/10/25 (Sun.)
+Topic Logitech International: Ethical gaming world
+Description There are increasingly more online games in recent years. When playing, we don&amp;rsquo;t want to encounter cheating behaviors that will decrease our will to play. Thus, we want to develop a cheating detection system that can detect unethical actions in online games.
+Ways of &amp;ldquo;Cheating&amp;rdquo;  gaming hack AFK (away from keyboard) ask other people to play etc  Solution: Machine Learning We surveyed a paper[1] focusing on remote suspicious mouse intrusion, which gave us some inspiraiton.</description>
     </item>
     
   </channel>
