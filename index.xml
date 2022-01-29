@@ -7,6 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 26 Jan 2022 14:27:53 +0800</lastBuildDate><atom:link href="https://LeoTheBestCoder.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Self Introduction</title>
+      <link>https://LeoTheBestCoder.github.io/posts/intro/</link>
+      <pubDate>Tue, 25 Jan 2022 15:35:34 +0800</pubDate>
+      
+      <guid>https://LeoTheBestCoder.github.io/posts/intro/</guid>
+      <description>I come from Taichung, a heartwarming city in central Taiwan.
+I spent my high school years in class of math and science gifted students at Taichung Municipal Taichung Second Senior High School, during which I made many good friends and obtained countless amazing memories.
+At July 2018, I finished my ultimate mission in high school — Advanced Subjects Test — and was luckily admitted to Department of Electrical Engineering at National Tsing Hua University (NTHU EE).</description>
+    </item>
+    
+    <item>
       <title>ICLAB</title>
       <link>https://LeoTheBestCoder.github.io/posts/iclab/</link>
       <pubDate>Wed, 26 Jan 2022 14:27:53 +0800</pubDate>
@@ -33,17 +44,6 @@
       <description>Topic A Study on Active Learning for Improving Object Detection Model in Home Care System Using Limited Amount of Data
 Members  Teammate: Jack Liu Mentor: Kuan Hung Chen  About Our Lab I am a member of NTHU Vision Science Lab (VSLAB) instructed by Prof. Min Sun.
 Motivation In recent years, the population of the elderly keeps increasing. Therefore, our lab founded CarePLUS Group with the aim to develop a home care system, monitoring the action of the elderly and detect whether they are in danger using computer vision.</description>
-    </item>
-    
-    <item>
-      <title>Self Introduction</title>
-      <link>https://LeoTheBestCoder.github.io/posts/intro/</link>
-      <pubDate>Tue, 25 Jan 2022 15:35:34 +0800</pubDate>
-      
-      <guid>https://LeoTheBestCoder.github.io/posts/intro/</guid>
-      <description>I come from Taichung, a heartwarming city in central Taiwan.
-I spent my high school years in class of math and science gifted students at Taichung Municipal Taichung Second Senior High School, during which I made many good friends and obtained countless amazing memories.
-At July 2018, I finished my ultimate mission in high school — Advanced Subjects Test — and was luckily admitted to Department of Electrical Engineering at National Tsing Hua University (NTHU EE).</description>
     </item>
     
     <item>

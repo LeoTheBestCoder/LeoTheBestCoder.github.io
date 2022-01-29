@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://LeoTheBestCoder.github.io/posts/intro/</loc>
+    <lastmod>2022-01-25T15:35:34+08:00</lastmod>
+  </url><url>
     <loc>https://LeoTheBestCoder.github.io/posts/iclab/</loc>
     <lastmod>2022-01-26T14:27:53+08:00</lastmod>
   </url><url>
@@ -16,9 +19,6 @@
   </url><url>
     <loc>https://LeoTheBestCoder.github.io/posts/research/</loc>
     <lastmod>2022-01-25T22:07:20+08:00</lastmod>
-  </url><url>
-    <loc>https://LeoTheBestCoder.github.io/posts/intro/</loc>
-    <lastmod>2022-01-25T15:35:34+08:00</lastmod>
   </url><url>
     <loc>https://LeoTheBestCoder.github.io/posts/meichu/</loc>
     <lastmod>2022-01-25T15:25:09+08:00</lastmod>
