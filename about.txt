@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Schoolbell
+- Font Author: Copyright (c) 2010 by Font Diner, Inc. All rights reserved.
+- Font Source: http://fonts.gstatic.com/s/schoolbell/v11/92zQtBZWOrcgoe-fgnJIVxIQ6mRqfiQ.ttf
+- Font License: Apache License, version 2.0 (http://www.apache.org/licenses/LICENSE-2.0.html))
