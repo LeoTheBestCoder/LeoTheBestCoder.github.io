@@ -18,6 +18,29 @@ At July 2018, I finished my ultimate mission in high school — Advanced Subject
     </item>
     
     <item>
+      <title>MeiChu Hackathon 梅竹黑客松</title>
+      <link>https://LeoTheBestCoder.github.io/posts/meichu/</link>
+      <pubDate>Tue, 25 Jan 2022 15:25:09 +0800</pubDate>
+      
+      <guid>https://LeoTheBestCoder.github.io/posts/meichu/</guid>
+      <description>Date 2020/10/24 (Sat.) - 2020/10/25 (Sun.)
+Topic Logitech International: Ethical gaming world
+Description There are increasingly more online games in recent years. When playing, we don&amp;rsquo;t want to encounter cheating behaviors that will decrease our will to play. Thus, we want to develop a cheating detection system that can detect unethical actions in online games.
+Ways of &amp;ldquo;Cheating&amp;rdquo;  gaming hack AFK (away from keyboard) ask other people to play etc  Solution: Machine Learning We surveyed a paper[1]focusing on remote suspicious mouse intrusion, which gave us some inspiraiton.</description>
+    </item>
+    
+    <item>
+      <title>Undergraduate Research</title>
+      <link>https://LeoTheBestCoder.github.io/posts/research/</link>
+      <pubDate>Tue, 25 Jan 2022 22:07:20 +0800</pubDate>
+      
+      <guid>https://LeoTheBestCoder.github.io/posts/research/</guid>
+      <description>Topic A Study on Active Learning for Improving Object Detection Model in Home Care System Using Limited Amount of Data
+Members  Teammate: Jack Liu Mentor: Kuan Hung Chen  About Our Lab I am a member of NTHU Vision Science Lab(VSLAB) instructed by Prof. Min Sun.
+Motivation In recent years, the population of the elderly keeps increasing. Therefore, our lab founded CarePLUS Groupwith the aim to develop a home care system, monitoring the action of the elderly and detect whether they are in danger using computer vision.</description>
+    </item>
+    
+    <item>
       <title>ICLAB</title>
       <link>https://LeoTheBestCoder.github.io/posts/iclab/</link>
       <pubDate>Wed, 26 Jan 2022 14:27:53 +0800</pubDate>
@@ -33,29 +56,6 @@ At July 2018, I finished my ultimate mission in high school — Advanced Subject
       
       <guid>https://LeoTheBestCoder.github.io/posts/intern/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Undergraduate Research</title>
-      <link>https://LeoTheBestCoder.github.io/posts/research/</link>
-      <pubDate>Tue, 25 Jan 2022 22:07:20 +0800</pubDate>
-      
-      <guid>https://LeoTheBestCoder.github.io/posts/research/</guid>
-      <description>Topic A Study on Active Learning for Improving Object Detection Model in Home Care System Using Limited Amount of Data
-Members  Teammate: Jack Liu Mentor: Kuan Hung Chen  About Our Lab I am a member of NTHU Vision Science Lab(VSLAB) instructed by Prof. Min Sun.
-Motivation In recent years, the population of the elderly keeps increasing. Therefore, our lab founded CarePLUS Groupwith the aim to develop a home care system, monitoring the action of the elderly and detect whether they are in danger using computer vision.</description>
-    </item>
-    
-    <item>
-      <title>MeiChu Hackathon 梅竹黑客松</title>
-      <link>https://LeoTheBestCoder.github.io/posts/meichu/</link>
-      <pubDate>Tue, 25 Jan 2022 15:25:09 +0800</pubDate>
-      
-      <guid>https://LeoTheBestCoder.github.io/posts/meichu/</guid>
-      <description>Date 2020/10/24 (Sat.) - 2020/10/25 (Sun.)
-Topic Logitech International: Ethical gaming world
-Description There are increasingly more online games in recent years. When playing, we don&amp;rsquo;t want to encounter cheating behaviors that will decrease our will to play. Thus, we want to develop a cheating detection system that can detect unethical actions in online games.
-Ways of &amp;ldquo;Cheating&amp;rdquo;  gaming hack AFK (away from keyboard) ask other people to play etc  Solution: Machine Learning We surveyed a paper[1]focusing on remote suspicious mouse intrusion, which gave us some inspiraiton.</description>
     </item>
     
   </channel>
